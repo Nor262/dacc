@@ -1,0 +1,2 @@
+Player: Phúc, Time: 3.4544358253479004s
+Player: Công, Time: 7.914363384246826s
